@@ -1,12 +1,10 @@
-EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="ALLENTV RD" tvg-logo="https://ibb.co/Msx4H8D" group-title="General",ALLENTV RD(4K)
 https://cdnhd.iblups.com/hls/0QQSI8XHYC.m3u8
-#EXTINF:-1 tvg-id="MAKINATV" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="Business;Legislative;News",MAKINA TV (720p)
-https://5790d294af2dc.streamlock.net/Makina/8218/playlist.m3u8
 #EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="RETROX TV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",RETROXTV (1080p)
+https://ssh101-fl.bozztv.com/ssh101/123456789/playlist.m3u8
 #EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV (1080p)
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1 tvg-id="AlegreTVRD.do" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="Entertainment",Alegre TV (720p)
@@ -14,9 +12,9 @@ https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-id="Ame47.do" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="General",Amé 47 (720p)
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVSpanish.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Spanish (720p)
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelspanish_all/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Animation",Anime Zone TV (480p)
-http://animezonetv.net/hls/stream.m3u8
+https://ssh101-fl.bozztv.com/ssh101/canal29/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena7.do" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="General",Antena 7 (480p) [Not 24/7]
 https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 (480p) [Not 24/7]
