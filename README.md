@@ -15,20 +15,12 @@ https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Animation",Anime Zone TV (480p)
 https://ssh101-fl.bozztv.com/ssh101/canal29/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena7.do" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="General",Antena 7 (480p) [Not 24/7]
-https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 (480p) [Not 24/7]
-https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Area809ElOriginal.do" tvg-logo="https://i.ibb.co/WkMfnGs/Channels4-profile-8.jpg" group-title="Music",Area 809 El Original (1080p)
 https://samson.streamerr.co:8081/rudydurisimotv/index.m3u8
 #EXTINF:-1 tvg-id="BajoTechoTV.do" tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="Undefined",Bajo Techo TV (1080p) [Not 24/7]
 https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="BblackCaribbean.fr" tvg-logo="https://i.imgur.com/GyZQCjq.png" group-title="Undefined",Bblack! Caribbean
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
-#EXTINF:-1 tvg-id="BblackClassik.fr" tvg-logo="https://i.imgur.com/PDCDy0b.png" group-title="Music",Bblack! Classik
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-id="Bellavision.do" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Undefined",Bellavisión (1080p)
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1 tvg-id="BonaoTV.do" tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="Undefined",Bonao TV (720p)
@@ -470,4 +462,5 @@ https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="ZTV.do" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="Undefined",ZTV (720p) [Not 24/7]
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+
 
